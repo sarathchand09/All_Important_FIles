@@ -1,0 +1,10 @@
+/home/sarath/Downloads/mongo/bin/mongod --dbpath ~/data/db   - for mongo db to start without errors
+
+/home/sarath/Downloads/mongodb-linux-x86_64-ubuntu1604-3.4.9/bin/mongod --dbpath ~/data/db
+
+
+alias python=/usr/bin/python3.6  - for python to use 3.6 instead of 2.7
+
+apt-get install python3-pip
+
+
